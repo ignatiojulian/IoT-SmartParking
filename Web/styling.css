@@ -1,0 +1,15 @@
+img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.successimage{
+    width: 90px;
+    height: 90px;
+}
+
+.invalidimage{
+    width: 90px;
+    height: 90px;
+}
